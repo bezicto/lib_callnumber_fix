@@ -51,3 +51,4 @@ function processString($input) {
     $finalOutput = trim($normalized);
     
     return $finalOutput;
+}
